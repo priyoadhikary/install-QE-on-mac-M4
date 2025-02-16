@@ -1,5 +1,7 @@
 conda deactivate
 
+brew install fftw openblas lapack
+
 mkdir build
 cd build
 
